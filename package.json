@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Naveed333/OAuth-2.0#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
   }
 }
